@@ -1,5 +1,5 @@
 function myfunction1(){
-    document.getElementById("demo").innerHTML = "BIBLIA" 
+    document.getElementById("demo").innerHTML = "TESTE" 
 }
 
 function myfunction2(){
@@ -7,7 +7,7 @@ function myfunction2(){
 }
 
 function myfunction3(){
-    document.getElementById("demo").innerHTML = "Deus"
+    document.getElementById("demo").innerHTML = "TESTE2"
 }
 
 function myfunction4(){
